@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Test_Suite_csv_1</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>09dd80d4-67ae-4d15-b38a-bdf3d3f228d3</testSuiteGuid>
+   <testCaseLink>
+      <guid>21956c6f-c2fc-48f3-9ff4-aa713eede0de</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Tests_CSV/Caso_csv_1</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>034c1274-40ef-4e70-81e1-4e8911b249de</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Data_CSV/Data_csv_1</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>034c1274-40ef-4e70-81e1-4e8911b249de</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>nombre</value>
+         <variableId>54b4a72c-f64e-440e-b44e-7811096aa61b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>034c1274-40ef-4e70-81e1-4e8911b249de</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>apellido</value>
+         <variableId>2bbd451e-7992-42ff-92a9-21d295db9415</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>034c1274-40ef-4e70-81e1-4e8911b249de</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>direccion_act</value>
+         <variableId>77fa7258-537c-486a-a7a8-647c9c925e13</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>034c1274-40ef-4e70-81e1-4e8911b249de</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>direccion_perm</value>
+         <variableId>24cc5ddb-e26b-4e6c-97a2-3db0c636da00</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

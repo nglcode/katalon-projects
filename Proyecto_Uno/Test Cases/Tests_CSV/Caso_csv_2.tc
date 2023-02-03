@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Caso_csv_2</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6684a6e9-9e86-446a-82be-ede36c629717</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>410adc9c-0ac6-4cee-9c75-a0dd753ff29b</id>
+      <masked>false</masked>
+      <name>nombre</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b2034dc8-58e9-4a63-b322-765be0751109</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>22d40dbd-d02e-4e40-8ab6-cb81b32c019e</id>
+      <masked>false</masked>
+      <name>dir_actual</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7c7e99db-2167-4f6a-a453-cf5c282d135a</id>
+      <masked>false</masked>
+      <name>dir_permanente</name>
+   </variable>
+</TestCaseEntity>
