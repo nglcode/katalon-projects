@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Test_Suite_internal_1</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>55edcc70-47b7-460b-b12a-128a2cac38a9</testSuiteGuid>
+   <testCaseLink>
+      <guid>21956c6f-c2fc-48f3-9ff4-aa713eede0de</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Tests_CSV/Caso_csv_1</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>7a985fb8-28cb-436c-983b-ccd6bb68edf6</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Data_Internal/Data_Internal</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>7a985fb8-28cb-436c-983b-ccd6bb68edf6</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>nombre</value>
+         <variableId>54b4a72c-f64e-440e-b44e-7811096aa61b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>7a985fb8-28cb-436c-983b-ccd6bb68edf6</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>email</value>
+         <variableId>2bbd451e-7992-42ff-92a9-21d295db9415</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>7a985fb8-28cb-436c-983b-ccd6bb68edf6</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>dir_actual</value>
+         <variableId>77fa7258-537c-486a-a7a8-647c9c925e13</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>7a985fb8-28cb-436c-983b-ccd6bb68edf6</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>dir_permanente</value>
+         <variableId>24cc5ddb-e26b-4e6c-97a2-3db0c636da00</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

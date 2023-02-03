@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>Data_MySQL</name>
+   <tag></tag>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>c39ad3c7-efed-4225-a7c6-418f2f02881c</dataFileGUID>
+   <dataSourceUrl>jdbc:mysql://localhost:3306/data_katalon</dataSourceUrl>
+   <driver>DBData</driver>
+   <driverClassName></driverClassName>
+   <isInternalPath>false</isInternalPath>
+   <password>a2F0YWxvbg==</password>
+   <query>select nombre,email,dir_actual,dir_permanente from clientes</query>
+   <secureUserAccount>true</secureUserAccount>
+   <sheetName></sheetName>
+   <user>katalon</user>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

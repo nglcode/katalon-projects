@@ -1,0 +1,46 @@
+{
+  "keywordFileContentHash": "81F708457B4B9E998AF5D33AC3AEDD0A",
+  "keywordClasses": [
+    {
+      "name": "helper.AbrirNavegador",
+      "keywordMethods": [
+        {
+          "name": "OpenNav",
+          "parameters": []
+        },
+        {
+          "name": "OpenNavWithParams",
+          "parameters": [
+            {
+              "name": "url",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            },
+            {
+              "name": "time",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.Integer",
+                "unresolvedClassName": "Integer",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "javadocParsed": false
+}
