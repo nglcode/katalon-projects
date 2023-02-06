@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Caso_1</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>320f3da8-3809-4e49-a579-f74d8cd15805</testCaseGuid>
+   <variable>
+      <defaultValue>5</defaultValue>
+      <description></description>
+      <id>67b180a0-cc16-429f-8ea8-7de5914abc62</id>
+      <masked>false</masked>
+      <name>numero</name>
+   </variable>
+   <variable>
+      <defaultValue>'Cell'</defaultValue>
+      <description></description>
+      <id>3ca05ff2-8428-4df5-80d4-952db49c12e6</id>
+      <masked>false</masked>
+      <name>nombre</name>
+   </variable>
+</TestCaseEntity>
